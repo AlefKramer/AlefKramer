@@ -1,6 +1,6 @@
 # Olá! 👋 Seja bem-vindo ao meu GitHub!  
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas na Estácio, apaixonado por tecnologia e programação. Atualmente, estou focado em aprender **desenvolvimento web (front-end)** e a linguagem **C**.  
+Sou um estudante de Análise e Desenvolvimento de Sistemas na Estácio, apaixonado por tecnologia e programação. Atualmente, estou focado em aprender **desenvolvimento web (front-end)** Java script e a linguagem **C**.  
 
 
 ---
